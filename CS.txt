@@ -1,0 +1,81 @@
+Penetration Tester - Responsible for testing technology products for finding exploitable security vulnerabilities.
+Red Teamer - Plays the role of an adversary, attacking an organization and providing feedback from an enemy's perspective.
+Security Engineer - Design, monitor, and maintain security controls, networks, and systems to help prevent cyberattacks.
+-----------------------------------------------------------------------------------------------------------------------
+linux for CS
+Networking for CS
+Database for CS
+protocol/routing for CS
+PEH for CS
+security aproches
+cyber security arcitect
+cryptography CS
+panitration CS
+honey pod CS
+CTS CS
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Hackthebox -site
+tyr hack me - site
+Picoctf -site
+-------------------------------------------------------------------------------------------------------------------------------------------
+certificates
+comTIA A+   --->ITprotv test site
+Security+
+MTA
+Network+   //comptia
+Pentest+
+eJPT
+cisco CCNA
+OSCP
+--------------------------------------------------------------------------------------------------------------------------------------
+Hardware 
+networking
+Virtualization and cloud computing
+hadrware and network troubleshooting
+software troubleshooting
+operational procedures
+security
+---------------------------------------------------------------------------------------------------------------------------------
+
+Careers in Cyber Security
+Offensive Security; hacking your first application ------ Red teams and penetration testers specialize in offensive security.
+Defensive Security; defending against a live cyber attack
+Exploring security topics in the industry
+firewall and intrusion prevention systems (IPS)
+Setting up logging and monitoring devices -network
+Malware Analysis
+Security Operations Center (SOC)
+Digital Forensics and Incident Response (DFIR)
+Block IP's
+Restrict IP's --- allow authorized IP's
+----------
+ Red Teamer
+Penetration Tester
+Malware Analyst
+ Digital Forensics Examiner
+Incident Responder
+Security Engineer
+Security Analyst
+OWASP Top Ten (web app)
+
+
+---------------------------------------------------------------------------------------------------------------------
+Go buster CMD
+------------------------------------------------------------------------------------------------------------------------
+Network Security
+Data Encryption
+Backup and Recovery
+Regular Security Audits and Testing
+Identity and Access Management (IAM)
+Endpoint Security
+Data Security
+Cloud Security
+Penetration Testing and Ethical Hacking
+Vulnerability Assessment
+Web Application Security
+Wireless Security
+Social Engineering
+Red Team Operations
+Exploit Development
+-------------------------------------------------------------------------------------------------------------------------------------------------------------

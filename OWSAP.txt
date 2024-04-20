@@ -1,0 +1,49 @@
+https://tryhackme.com/room/requestsmugglingbrowserdesync
+https://tryhackme.com/room/btwindowsinternals
+https://tryhackme.com/room/adventofcyber2
+
+
+
+
+---------------------------------------------------------------------------------
+view page source
+login forgot change ->encrypt data
+file type ->API validation
+vurnebel packages
+review comment and print console
+find hidden paths
+API error msg do not show system info
+
+javascript or any file ->obfusticated <-find
+IDOR vulnerability
+DDoS
+
+
+----------------------------------------------------------------------------------------------
+Content Discovery
+OSINT - Google Hacking / Dorking
+OSINT - Wappalyzer -> finds site framwork 
+OSINT - Wayback Machine ->found URLs
+OSINT - GitHub
+OSINT - S3 Buckets
+automate -  ffuf, dirb and gobuster.
+worlist GIT -> https://github.com/danielmiessler/SecLists
+Subdomain enumeration ->  Brute Force, OSINT (Open-Source Intelligence) and Virtual Host
+https://crt.sh/ -> SSL Log's
+https://ui.ctsearch.entrust.com/ui/ctsearchui -> SSL Log's
+Google advance search ->  "-site:www.domain.com site:*.domain.com" 
+
+Subdomain Enumeration	---	Bruteforce DNS -> tool dnsrecon,Sublist3r,wordlist
+Authentication Bypass ---> ffuf
+--------------------------
+IDOR vulnerabilities 
+File inclusion vulnerabilities	--- NULL byte %00 --	Local File Inclusion (﻿LFI)
+SSRF
+------------------------------------------------
+XSS	---	(universal)   /*-/*`/*\`/*'/*"/**/(/* */onerror=alert('THM') )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert('THM')//>\x3e
+	---	() https://github.com/mandatoryprogrammer/xsshunter-express
+---------------------------------------------------
+
+
+
+

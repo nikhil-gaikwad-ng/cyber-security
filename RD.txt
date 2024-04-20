@@ -1,0 +1,45 @@
+Penetration Tester - Responsible for testing technology products for finding exploitable security vulnerabilities.
+
+Red Teamer - Plays the role of an adversary, attacking an organization and providing feedback from an enemy's perspective.
+
+Security Engineer - Design, monitor, and maintain security controls, networks, and systems to help prevent cyberattacks.
+
+honeypod
+
+Offensive Security	---	Red teams and penetration testers specialize in offensive security.
+
+Defensive Security	---	defending against a live cyber attack
+
+firewall and intrusion prevention systems (IPS)
+
+Setting up logging and monitoring devices -network
+
+Malware Analysis
+
+Security Operations Center (SOC)
+
+Digital Forensics and Incident Response (DFIR)
+
+OWASP
+
+Network Security
+
+Backup and Recovery
+
+Regular Security Audits and Testing
+
+Identity and Access Management (IAM)
+
+Endpoint Security
+
+Data Security //Data Encryption
+
+Cloud Security
+
+Vulnerability Assessment
+
+Wireless Security
+
+Social Engineering
+
+Exploit Development
