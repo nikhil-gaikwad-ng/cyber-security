@@ -1,7 +1,12 @@
 https://tryhackme.com/room/requestsmugglingbrowserdesync
 https://tryhackme.com/room/btwindowsinternals
 https://tryhackme.com/room/adventofcyber2
+https://tryhackme.com/r/room/dfirprocesslegalconsiderations
+https://tryhackme.com/r/room/requestsmugglingbrowserdesync
+https://tryhackme.com/path/outline/beginner
 
+--- Real life exploids with explanation
+https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/
 
 
 
@@ -43,7 +48,21 @@ SSRF
 XSS	---	(universal)   /*-/*`/*\`/*'/*"/**/(/* */onerror=alert('THM') )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert('THM')//>\x3e
 	---	() https://github.com/mandatoryprogrammer/xsshunter-express
 ---------------------------------------------------
-
-
+Command Injection	---Blind command injection
+			---Verbose command injection
+https://github.com/payloadbox/command-injection-payload-list	---List of cmd to break filter
+-----------------------------------------------------------
+	--OWASP
+Broken Access Control
+Cryptographic Failures
+Injection
+Insecure Design
+Security Misconfiguration
+Vulnerable and Outdated Components
+Identification and Authentication Failures
+Software and Data Integrity Failures
+Security Logging & Monitoring Failures
+Server-Side Request Forgery (SSRF)
+-------------------------------------------------------------
 
 
