@@ -4,6 +4,7 @@ https://tryhackme.com/room/adventofcyber2
 https://tryhackme.com/r/room/dfirprocesslegalconsiderations
 https://tryhackme.com/r/room/requestsmugglingbrowserdesync
 https://tryhackme.com/path/outline/beginner
+https://tryhackme.com/r/room/securesdlc
 
 --- Real life exploids with explanation
 https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/
