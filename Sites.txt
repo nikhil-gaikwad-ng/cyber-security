@@ -1,0 +1,5 @@
+https://legalhackers.com/	---	POC/blog
+https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/	---	POC/blog
+https://www.exploit-db.com/ 	---	POC
+Tryhackme.com	---	courses
+hackthebox.com
