@@ -1,3 +1,5 @@
+Practice on site (break the site)-> https://juice-shop.herokuapp.com/#/score-board
+------------------------------------------------------------------------
 https://tryhackme.com/room/requestsmugglingbrowserdesync
 https://tryhackme.com/room/btwindowsinternals
 https://tryhackme.com/room/adventofcyber2
@@ -5,6 +7,8 @@ https://tryhackme.com/r/room/dfirprocesslegalconsiderations
 https://tryhackme.com/r/room/requestsmugglingbrowserdesync
 https://tryhackme.com/path/outline/beginner
 https://tryhackme.com/r/room/securesdlc
+https://tryhackme.com/module/intro-to-networking
+https://tryhackme.com/paths
 
 --- Real life exploids with explanation
 https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/
